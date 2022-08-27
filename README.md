@@ -4,7 +4,7 @@
 
 1. [Module 1 Welcome to the career path](https://github.com/gildoch/m1-welcome-to-the-career-path)
 2. [Module 2 Web dev basic](./module2-web-dev-basics/README.md)
-3. [Module 3 Making websites interactive](./module3-making-websites-interactive/README.md)
+3. [Module 3 Making websites interactive](https://github.com/gildoch/m3-making-websites-interactive#chrome_extension)
 4. [Module 4 Essential CSS concepts](./m4-essential-CSS-concepts/README.md)
 5. [Module 5 Essential JavaScript concepts](./m5-essential-javaScript-concepts/README.md)
 6. [Module 6 Responsive design](./m6-responsive-design/README.md)
